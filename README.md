@@ -1,5 +1,6 @@
 ### MSEplots project
 #### pip install MSEplots-pkg
+#### To get the lastest release: pip install MSEplots-pkg --upgrade 
 ![Generic badge](https://img.shields.io/badge/Python3.0-<COLOR>.svg)
 ![Generic badge](https://img.shields.io/badge/MetPy-<COLOR>.svg)
 ------
